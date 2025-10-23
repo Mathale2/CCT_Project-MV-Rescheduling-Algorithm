@@ -1,5 +1,5 @@
 # CCT_Projects:MV without Minisub rescheduling algorithm
-Work done by T.Mbatha during his term in the CCT
+Work done by T.Mbatha during his term in the CCT. An algorithim was developed to cover the gap in th e ERP system functionality and reduce variation in planned work orders demand. The algorithim continously monitors the health of the maintenance plan(work order generators) and reschedules as needed or as decided by T.Mbatha and the accountable mananger(Professional Engineer: Indistrial engineering).
 
 
 # MV without Minisub rescheduling algorithm
