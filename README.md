@@ -8,10 +8,10 @@ A sub-project of the MOP: Maintenance Optimisation Project.
 Cleaning up the mess!
 <img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/937f4ac5-9576-4fd8-bd63-6f26010c7ae4" />
 
-Method or steps followed:
+#Method or steps followed:
 <img width="783" height="673" alt="image" src="https://github.com/user-attachments/assets/8ef9517f-99c1-44f9-8264-722b28a19a77" />
 
-Workflow:
+#Workflow:
 1. Open source tools used to develop the custom schedulling algorithim.
 2. Appropriate output file to make mass changes in the SAP ERP system.
 3. Optimised work distribution and continous monitoring. 
