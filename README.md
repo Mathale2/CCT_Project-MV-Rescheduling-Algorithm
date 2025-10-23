@@ -1,4 +1,4 @@
-# CCT_Projects
+# CCT_Projects:MV without Minisub rescheduling algorithm
 Work done by T.Mbatha during his term in the CCT
 
 
