@@ -8,7 +8,8 @@ A sub-project of the MOP: Maintenance Optimisation Project.
 Cleaning up the mess!
 <img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/937f4ac5-9576-4fd8-bd63-6f26010c7ae4" />
 
-#Method or steps followed:
+#Steps or method followed to develop the model. 
+
 <img width="783" height="673" alt="image" src="https://github.com/user-attachments/assets/8ef9517f-99c1-44f9-8264-722b28a19a77" />
 
 #Workflow:
