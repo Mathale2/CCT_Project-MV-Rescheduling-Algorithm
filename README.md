@@ -8,11 +8,26 @@ A sub-project of the MOP: Maintenance Optimisation Project.
 Cleaning up the mess!
 <img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/937f4ac5-9576-4fd8-bd63-6f26010c7ae4" />
 
+#Current situation
+<img width="1307" height="834" alt="Screenshot 2025-11-13 140143" src="https://github.com/user-attachments/assets/096b54f7-d2ff-4c8a-bab4-69215e41c562" />
+
+
+
+
+https://github.com/user-attachments/assets/8937d564-3e86-4bee-9548-40162a143723
+
+
+
+
 #Steps or method followed to develop the model. 
 
 <img width="783" height="673" alt="image" src="https://github.com/user-attachments/assets/8ef9517f-99c1-44f9-8264-722b28a19a77" />
 
 #Workflow:
+
+https://github.com/user-attachments/assets/81e31426-3c99-4c56-8095-17920ee04b4a
+
+
 1. Open source tools used to develop the custom schedulling algorithim.
 2. Appropriate output file to make mass changes in the SAP ERP system.
 3. Optimised work distribution and continous monitoring. 
