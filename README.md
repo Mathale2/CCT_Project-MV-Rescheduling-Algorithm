@@ -25,10 +25,7 @@ https://github.com/user-attachments/assets/8937d564-3e86-4bee-9548-40162a143723
 
 #Workflow:
 
-https://github.com/user-attachments/assets/81e31426-3c99-4c56-8095-17920ee04b4a
-
-
-1. Open source tools used to develop the custom schedulling algorithim.
+1. Open source tools used to develop the custom schedulling algorithim. #Python and The Google OR-Tools for a solver. 
 2. Appropriate output file to make mass changes in the SAP ERP system.
 3. Optimised work distribution and continous monitoring. 
 <img width="1203" height="563" alt="image" src="https://github.com/user-attachments/assets/ad58ee52-f73d-417b-91a8-96d0d9fe3dc6" />
